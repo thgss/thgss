@@ -14,7 +14,7 @@
 
 ###
 
-<h1 align="left">💻Coisas que faço melhor sem camiseta</h1>
+<h1 align="left">💻Coisas que faço melhor sem camisa</h1>
 
 ###
 
