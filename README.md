@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">Codar |Viajar | Tentar não commitar direto na main</h4>
+<h4 align="left">Codar | Viajar | Tentar não commitar direto na main</h4>
 
 ###
 
