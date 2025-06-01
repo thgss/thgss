@@ -20,29 +20,29 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/thgss/thgss/beaa88f8ccc42fb71df3c24249585fe5ba01fdec/icons/python-svgrepo-com.svg" width="100" height="50" fontsize="12" margin-right="auto" alt="Python"/>
+<img src="https://raw.githubusercontent.com/thgss/thgss/beaa88f8ccc42fb71df3c24249585fe5ba01fdec/icons/python-svgrepo-com.svg" width="100" height="50" fontsize="12" alt="Python"/>
 
-<!-- <img src="https://raw.githubusercontent.com/thgss/thgss/beaa88f8ccc42fb71df3c24249585fe5ba01fdec/icons/csharp-svgrepo-com.svg" width="100" height="50" fontsize="12" margin-left="auto" alt="C#"/> -->
+<!-- <img src="https://raw.githubusercontent.com/thgss/thgss/beaa88f8ccc42fb71df3c24249585fe5ba01fdec/icons/csharp-svgrepo-com.svg" width="100" height="50" fontsize="12" alt="C#"/> -->
 
-<!-- <img src="https://raw.githubusercontent.com/thgss/thgss/beaa88f8ccc42fb71df3c24249585fe5ba01fdec/icons/cplusplus-svgrepo-com.svg" width="100" height="50" fontsize="12" margin-left="auto" alt="C++"/> -->
+<!-- <img src="https://raw.githubusercontent.com/thgss/thgss/beaa88f8ccc42fb71df3c24249585fe5ba01fdec/icons/cplusplus-svgrepo-com.svg" width="100" height="50" fontsize="12" alt="C++"/> -->
 
-<img src="https://raw.githubusercontent.com/thgss/thgss/beaa88f8ccc42fb71df3c24249585fe5ba01fdec/icons/html-5-svgrepo-com.svg" width="100" height="50" fontsize="12" margin-left="auto" alt="html5"/>
+<img src="https://raw.githubusercontent.com/thgss/thgss/beaa88f8ccc42fb71df3c24249585fe5ba01fdec/icons/html-5-svgrepo-com.svg" width="100" height="50" fontsize="12" alt="html5"/>
 
-<img src="https://raw.githubusercontent.com/thgss/thgss/beaa88f8ccc42fb71df3c24249585fe5ba01fdec/icons/javascript-svgrepo-com.svg" width="100" height="50" fontsize="12" margin-left="auto" alt="Javascript"/>
+<img src="https://raw.githubusercontent.com/thgss/thgss/beaa88f8ccc42fb71df3c24249585fe5ba01fdec/icons/javascript-svgrepo-com.svg" width="100" height="50" fontsize="12" alt="Javascript"/>
 
-<!-- <img src="https://raw.githubusercontent.com/thgss/thgss/beaa88f8ccc42fb71df3c24249585fe5ba01fdec/icons/java-svgrepo-com.svg" width="100" height="50" fontsize="12" margin-left="auto" alt="java"/> -->
+<!-- <img src="https://raw.githubusercontent.com/thgss/thgss/beaa88f8ccc42fb71df3c24249585fe5ba01fdec/icons/java-svgrepo-com.svg" width="100" height="50" fontsize="12" alt="java"/> -->
  
-<!-- <img src="https://raw.githubusercontent.com/thgss/thgss/beaa88f8ccc42fb71df3c24249585fe5ba01fdec/icons/rust-svgrepo-com.svg" width="100" height="50" fontsize="12" margin-left="auto" alt="rust"/> -->
+<!-- <img src="https://raw.githubusercontent.com/thgss/thgss/beaa88f8ccc42fb71df3c24249585fe5ba01fdec/icons/rust-svgrepo-com.svg" width="100" height="50" fontsize="12" alt="rust"/> -->
 
-<img src="https://raw.githubusercontent.com/thgss/thgss/beaa88f8ccc42fb71df3c24249585fe5ba01fdec/icons/blender-svgrepo-com.svg" width="100" height="50" fontsize="12" margin-left="auto" alt="Blender"/>
+<img src="https://raw.githubusercontent.com/thgss/thgss/beaa88f8ccc42fb71df3c24249585fe5ba01fdec/icons/blender-svgrepo-com.svg" width="100" height="50" fontsize="12" alt="Blender"/>
 
-<img src="https://raw.githubusercontent.com/thgss/thgss/beaa88f8ccc42fb71df3c24249585fe5ba01fdec/icons/unreal-engine-svgrepo-com.svg" width="100" height="50" fontsize="12" margin-left="auto" alt="Unreal Engine"/>
+<img src="https://raw.githubusercontent.com/thgss/thgss/beaa88f8ccc42fb71df3c24249585fe5ba01fdec/icons/unreal-engine-svgrepo-com.svg" width="100" height="50" fontsize="12" alt="Unreal Engine"/>
 
-<!-- <img src="https://raw.githubusercontent.com/thgss/thgss/beaa88f8ccc42fb71df3c24249585fe5ba01fdec/icons/julia-svgrepo-com.svg" width="100" height="50" fontsize="12" margin-left="auto" alt="julia"/> -->
+<!-- <img src="https://raw.githubusercontent.com/thgss/thgss/beaa88f8ccc42fb71df3c24249585fe5ba01fdec/icons/julia-svgrepo-com.svg" width="100" height="50" fontsize="12" alt="julia"/> -->
 
-<!-- <img src="https://raw.githubusercontent.com/thgss/thgss/beaa88f8ccc42fb71df3c24249585fe5ba01fdec/icons/kotlin-svgrepo-com.svg" width="100" height="50" fontsize="12" margin-left="auto" alt="kotlin"/> -->
+<!-- <img src="https://raw.githubusercontent.com/thgss/thgss/beaa88f8ccc42fb71df3c24249585fe5ba01fdec/icons/kotlin-svgrepo-com.svg" width="100" height="50" fontsize="12" alt="kotlin"/> -->
 
 </div>
 
