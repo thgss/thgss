@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">Codar |  Viajar | Tentar não commitar direto na main</h4>
+<h4 align="left">Codar |Viajar | Tentar não commitar direto na main</h4>
 
 ###
 
@@ -21,29 +21,29 @@
 <br clear="both">
 
 <div align="center">
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus"  />
-  <img width="12" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="Javascript"  />
-   <img width="12" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust"  />
-  <img width="12" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" height="40" alt="Blender"/>
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/thgss/thgss/3aea7665fc44e63471e3b6bbd14386206e0c9c57/icons/Unreal-Engine-48.svg" height="40" alt="Unreal Engine"/>
-  <img width="12" />
 
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="40" alt="julia"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin"  />
-  -->
+<img src="https://raw.githubusercontent.com/thgss/thgss/beaa88f8ccc42fb71df3c24249585fe5ba01fdec/icons/python-svgrepo-com.svg" height="40" fontsize="12"  alt="Python"/>
+<img width="15" />
+<img src="https://raw.githubusercontent.com/thgss/thgss/beaa88f8ccc42fb71df3c24249585fe5ba01fdec/icons/csharp-svgrepo-com.svg" height="40" fontsize="12"  alt="C#"/>
+<img width="15" />
+<img src="https://raw.githubusercontent.com/thgss/thgss/beaa88f8ccc42fb71df3c24249585fe5ba01fdec/icons/cplusplus-svgrepo-com.svg" height="40" fontsize="12"  alt="C++"/>
+<img width="15" />
+<img src="https://raw.githubusercontent.com/thgss/thgss/beaa88f8ccc42fb71df3c24249585fe5ba01fdec/icons/html-5-svgrepo-com.svg" height="40" fontsize="12"  alt="html5"/>
+<img width="15" />
+<img src="https://raw.githubusercontent.com/thgss/thgss/beaa88f8ccc42fb71df3c24249585fe5ba01fdec/icons/javascript-svgrepo-com.svg" height="40" fontsize="12"  alt="Javascript"/>
+<img width="15" />
+<img src="https://raw.githubusercontent.com/thgss/thgss/beaa88f8ccc42fb71df3c24249585fe5ba01fdec/icons/java-svgrepo-com.svg" height="40" fontsize="12"  alt="java"/>
+<img width="15" /> 
+<img src="https://raw.githubusercontent.com/thgss/thgss/beaa88f8ccc42fb71df3c24249585fe5ba01fdec/icons/rust-svgrepo-com.svg" height="40" fontsize="12"  alt="rust"/>
+<img width="15" />
+<img src="https://raw.githubusercontent.com/thgss/thgss/beaa88f8ccc42fb71df3c24249585fe5ba01fdec/icons/blender-svgrepo-com.svg" height="40" fontsize="12"  alt="Blender"/>
+<img width="15" />
+<img src="https://raw.githubusercontent.com/thgss/thgss/beaa88f8ccc42fb71df3c24249585fe5ba01fdec/icons/unreal-engine-svgrepo-com.svg" height="40" fontsize="12"  alt="Unreal Engine"/>
+<img width="15" />
+<img src="https://raw.githubusercontent.com/thgss/thgss/beaa88f8ccc42fb71df3c24249585fe5ba01fdec/icons/julia-svgrepo-com.svg" height="40" fontsize="12"  alt="julia"/>
+<img width="15" />
+<img src="https://raw.githubusercontent.com/thgss/thgss/beaa88f8ccc42fb71df3c24249585fe5ba01fdec/icons/kotlin-svgrepo-com.svg" height="40" fontsize="12"  alt="kotlin"/>
+<img width="15" />
 
 </div>
 
@@ -57,7 +57,7 @@
 
 <div align="center">
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=thgss&theme=github-dark&hide_border=true&border_radius=0&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&hide_current_streak=false&hide_longest_streak=true" height="150" /></a>
-  <img src="https://github-readme-stats.vercel.app/api?username=thgss&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=true&theme=github_dark&cache_seconds=14400&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=thgss&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=true&theme=github_dark&cache_seconds=14400&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"/>
 </div>
 
 ###
@@ -69,9 +69,9 @@
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-<!--   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"> -->
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+<!-- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"> -->
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
 ###
@@ -81,9 +81,9 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/thgss__/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram "  />
-  </a>
+<a href="https://www.instagram.com/thgss__/" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram "/>
+</a>
 </div>
 
 ###
