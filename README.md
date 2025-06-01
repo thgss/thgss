@@ -23,27 +23,27 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/thgss/thgss/beaa88f8ccc42fb71df3c24249585fe5ba01fdec/icons/python-svgrepo-com.svg" height="40" fontsize="12"  alt="Python"/>
-<img width="15" />
+<img width="20" />
 <img src="https://raw.githubusercontent.com/thgss/thgss/beaa88f8ccc42fb71df3c24249585fe5ba01fdec/icons/csharp-svgrepo-com.svg" height="40" fontsize="12"  alt="C#"/>
-<img width="15" />
+<img width="20" />
 <img src="https://raw.githubusercontent.com/thgss/thgss/beaa88f8ccc42fb71df3c24249585fe5ba01fdec/icons/cplusplus-svgrepo-com.svg" height="40" fontsize="12"  alt="C++"/>
-<img width="15" />
+<img width="20" />
 <img src="https://raw.githubusercontent.com/thgss/thgss/beaa88f8ccc42fb71df3c24249585fe5ba01fdec/icons/html-5-svgrepo-com.svg" height="40" fontsize="12"  alt="html5"/>
-<img width="15" />
+<img width="20" />
 <img src="https://raw.githubusercontent.com/thgss/thgss/beaa88f8ccc42fb71df3c24249585fe5ba01fdec/icons/javascript-svgrepo-com.svg" height="40" fontsize="12"  alt="Javascript"/>
-<img width="15" />
+<img width="20" />
 <img src="https://raw.githubusercontent.com/thgss/thgss/beaa88f8ccc42fb71df3c24249585fe5ba01fdec/icons/java-svgrepo-com.svg" height="40" fontsize="12"  alt="java"/>
-<img width="15" /> 
+<img width="20" /> 
 <img src="https://raw.githubusercontent.com/thgss/thgss/beaa88f8ccc42fb71df3c24249585fe5ba01fdec/icons/rust-svgrepo-com.svg" height="40" fontsize="12"  alt="rust"/>
-<img width="15" />
+<img width="20" />
 <img src="https://raw.githubusercontent.com/thgss/thgss/beaa88f8ccc42fb71df3c24249585fe5ba01fdec/icons/blender-svgrepo-com.svg" height="40" fontsize="12"  alt="Blender"/>
-<img width="15" />
+<img width="20" />
 <img src="https://raw.githubusercontent.com/thgss/thgss/beaa88f8ccc42fb71df3c24249585fe5ba01fdec/icons/unreal-engine-svgrepo-com.svg" height="40" fontsize="12"  alt="Unreal Engine"/>
-<img width="15" />
+<img width="20" />
 <img src="https://raw.githubusercontent.com/thgss/thgss/beaa88f8ccc42fb71df3c24249585fe5ba01fdec/icons/julia-svgrepo-com.svg" height="40" fontsize="12"  alt="julia"/>
-<img width="15" />
+<img width="20" />
 <img src="https://raw.githubusercontent.com/thgss/thgss/beaa88f8ccc42fb71df3c24249585fe5ba01fdec/icons/kotlin-svgrepo-com.svg" height="40" fontsize="12"  alt="kotlin"/>
-<img width="15" />
+<img width="20" />
 
 </div>
 
