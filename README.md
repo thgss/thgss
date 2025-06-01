@@ -21,6 +21,14 @@
 <br clear="both">
 
 <div align="center">
+
+<!-- Cores -->
+
+<!-- Primária: #6685ff -->
+<!-- Secundária: #A9BBFF -->
+<!-- Secundária: #e1e8fe -->
+<!-- Fonte: https://www.svgrepo.com/ -->
+
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
