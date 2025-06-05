@@ -1,20 +1,32 @@
-<h1 align="left">🕹️ Desenvolvedor / Jogos Digitais</h1>
+<!-- fonte icons: https://www.svgrepo.com/ -->
+<!-- Cor primária: #6685ff -->
+<!-- Cor secundária: #a9bbff -->
+
+<h1 align="left"><img src="https://raw.githubusercontent.com/thgss/thgss/be0df05c90ba052a31fbe99cfb8685dc09c481ef/icons/atom-svgrepo-com.svg" width="50" height="24" fontsize="12"/> Desenvolvedor / Jogos Digitais</h1>
 
 ###
 
-<h4 align="left">Olá! Eu sou o Thiago, um entusiasta em programação apaixonado por café, código quebrado e mensagens de commit sem sentido.</h4>
+<h4 align="left">Olá! Eu sou o Thiago, tenho 25 anos e sou um entusiasta em programação apaixonado por café, código quebrado e mensagens de commit sem sentido.</h4>
 
 ###
 
-<h1 align="left">🧩Hobbies</h1>
+<h1 align="left"><img src="https://raw.githubusercontent.com/thgss/thgss/be0df05c90ba052a31fbe99cfb8685dc09c481ef/icons/puzzle-piece-svgrepo-com.svg" width="50" height="26" fontsize="12"/> Hobbies</h1>
 
 ###
 
-<h4 align="left">Codar | Viajar | Tentar não commitar direto na main</h4>
+<h4 align="left">
+
+- Codar 
+  
+- Viajar 
+  
+- Tentar não commitar direto na main
+
+</h4>
 
 ###
 
-<h1 align="left">💻 Desenvolvo melhor sem camisa</h1>
+<h1 align="left"><img src="https://raw.githubusercontent.com/thgss/thgss/ef597cce920510a61d74cdd7da602388734e2404/icons/dev-svgrepo-com.svg" width="50" height="24" fontsize="12"/> Desenvolvo melhor sem camisa</h1>
 
 ###
 
@@ -36,10 +48,6 @@
  
 <!-- <img src="https://raw.githubusercontent.com/thgss/thgss/beaa88f8ccc42fb71df3c24249585fe5ba01fdec/icons/rust-svgrepo-com.svg" width="100" height="50" fontsize="12" alt="rust"/> -->
 
-<img src="https://raw.githubusercontent.com/thgss/thgss/beaa88f8ccc42fb71df3c24249585fe5ba01fdec/icons/blender-svgrepo-com.svg" width="100" height="50" fontsize="12" alt="Blender"/>
-
-<img src="https://raw.githubusercontent.com/thgss/thgss/beaa88f8ccc42fb71df3c24249585fe5ba01fdec/icons/unreal-engine-svgrepo-com.svg" width="100" height="50" fontsize="12" alt="Unreal Engine"/>
-
 <!-- <img src="https://raw.githubusercontent.com/thgss/thgss/beaa88f8ccc42fb71df3c24249585fe5ba01fdec/icons/julia-svgrepo-com.svg" width="100" height="50" fontsize="12" alt="julia"/> -->
 
 <!-- <img src="https://raw.githubusercontent.com/thgss/thgss/beaa88f8ccc42fb71df3c24249585fe5ba01fdec/icons/kotlin-svgrepo-com.svg" width="100" height="50" fontsize="12" alt="kotlin"/> -->
@@ -48,20 +56,39 @@
 
 ###
 
-<h1 align="left">ℹ️ Informações Sigilosas e Inofensivas</h1>
+<h1 align="left"><img src="https://raw.githubusercontent.com/thgss/thgss/be0df05c90ba052a31fbe99cfb8685dc09c481ef/icons/app-store-svgrepo-com.svg" width="50" height="30" fontsize="12"/> Domino melhor que o Christian Gray</h1>
 
 ###
 
 <br clear="both">
 
 <div align="center">
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=thgss&theme=github-dark&hide_border=true&border_radius=0&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&hide_current_streak=false&hide_longest_streak=true" height="150" /></a>
-<img src="https://github-readme-stats.vercel.app/api?username=thgss&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=true&theme=github_dark&cache_seconds=14400&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"/>
+
+<img src="https://raw.githubusercontent.com/thgss/thgss/beaa88f8ccc42fb71df3c24249585fe5ba01fdec/icons/blender-svgrepo-com.svg" width="100" height="50" fontsize="12" alt="Blender"/>
+
+<img src="https://raw.githubusercontent.com/thgss/thgss/beaa88f8ccc42fb71df3c24249585fe5ba01fdec/icons/unreal-engine-svgrepo-com.svg" width="100" height="50" fontsize="12" alt="Unreal Engine"/>
+
 </div>
 
 ###
 
-<h1 align="left">🕹️ Jogo da cobrinha que o RH adora</h1>
+<h1 align="left"><img src="https://raw.githubusercontent.com/thgss/thgss/be0df05c90ba052a31fbe99cfb8685dc09c481ef/icons/info-svgrepo-com.svg" width="50" height="29" fontsize="12"/> Informações Sigilosas e Inofensivas</h1>
+
+###
+
+<br clear="both">
+
+<div align="center">
+
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=thgss&theme=github-dark&hide_border=true&border_radius=0&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&hide_current_streak=false&hide_longest_streak=true" height="150" /></a>
+
+ <img src="https://github-readme-stats.vercel.app/api?username=thgss&hide_title=true&    hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&   disable_animations=true&theme=github_dark&cache_seconds=14400&locale=pt-br&    hide_border=true&order=1" height="150" alt="stats graph"/>
+
+</div>
+
+###
+
+<h1 align="left"><img src="https://raw.githubusercontent.com/thgss/thgss/be0df05c90ba052a31fbe99cfb8685dc09c481ef/icons/snake-svgrepo-com.svg" width="50" height="23" fontsize="12"/> Requisito em todos perfis Jr.</h1>
 
 ###
 
@@ -75,13 +102,13 @@
 
 ###
 
-<h1 align="left">📩 Contato</h1>
+<h1 align="left"><img src="https://raw.githubusercontent.com/thgss/thgss/be0df05c90ba052a31fbe99cfb8685dc09c481ef/icons/social-contact-svgrepo-com.svg" width="50" height="30" fontsize="12"/> Contato</h1>
 
 ###
 
 <div align="left">
-<a href="https://www.instagram.com/thgss__/" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram "/>
+<a href="https://www.instagram.com/thgss__/" target="">
+<img src="https://raw.githubusercontent.com/thgss/thgss/3142a02f92d3448f90f38f112b42365a9a3eb83c/icons/instagram-svgrepo-com.svg" width="37" height="30" alt="instagram "/>
 </a>
 </div>
 
