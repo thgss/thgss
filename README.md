@@ -70,7 +70,7 @@
 
 <img src="https://raw.githubusercontent.com/thgss/thgss/3a42f9bf77f7559e157214f1bc20c9c77821dafe/icons/unreal-engine-svgrepo-com.svg" width="100" height="50" fontsize="12" alt="Unreal Engine"/>
 
-<img src="https://raw.githubusercontent.com/thgss/thgss/6eea76593f404ac1b8b73c6051d4ad24e475e205/icons/adobe-illustrator-svgrepo-com.svg" width="100" height="50" fontsize="12" alt="Adobe Illustrator"/>
+<img src="https://raw.githubusercontent.com/thgss/thgss/7015d8eff278aca586bde75ebe0991d084fbc091/icons/adobe-illustrator-svgrepo-com.svg" width="100" height="50" fontsize="12" alt="Adobe Illustrator"/>
 
 <img src="https://raw.githubusercontent.com/thgss/thgss/3a42f9bf77f7559e157214f1bc20c9c77821dafe/icons/inkscape-svgrepo-com.svg" width="100" height="50" fontsize="12" alt="Inkscape"/>
 
