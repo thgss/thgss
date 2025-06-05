@@ -79,11 +79,8 @@
 <br clear="both">
 
 <div align="center">
-
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=thgss&theme=github-dark&hide_border=true&border_radius=0&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&hide_current_streak=false&hide_longest_streak=true" height="150" /></a>
-
- <img src="https://github-readme-stats.vercel.app/api?username=thgss&hide_title=true&    hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&   disable_animations=true&theme=github_dark&cache_seconds=14400&locale=pt-br&    hide_border=true&order=1" height="150" alt="stats graph"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=thgss&hide_title=true&   hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&  disable_animations=true&theme=github_dark&cache_seconds=14400&locale=pt-br&   hide_border=true&order=1" height="150" alt="stats graph"/>
 </div>
 
 ###
