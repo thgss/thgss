@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">Olá! Eu sou o Thiago, tenho 25 anos e sou um entusiasta em programação apaixonado por café, código quebrado e mensagens de commit sem sentido.</h4>
+<h4 align="left">Olá! Me chamo Thiago, tenho 25 anos e sou um entusiasta em programação apaixonado por café, código quebrado e mensagens de commit sem sentido.</h4>
 
 ###
 
