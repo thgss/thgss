@@ -38,10 +38,4 @@
             </td>
         </tr>
     </table>
-
-<<<<<<< HEAD
 </table>
-=======
-
-<img src="https://github.com/thgss/thgss/blob/main/imgs/teste.jpg"  width="100%" height="100" >
->>>>>>> 190ba50a5017a77e10fe82d75f3c83be4ec9ab25
