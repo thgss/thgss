@@ -1,13 +1,9 @@
-<h2 align="center">Boas Vindas</h2>
-<!-- Banner Superior -->
-<p align="center">
+<h2 align="center">Em manutenção!</h2>
+<!-- <p align="center">
   <img src="https://github.com/thgss/thgss/blob/main/imgs/teste.jpg" alt="Banner" width="100%" height="200">
 </p>
-
-<!-- Layout Lado a Lado -->
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <!-- Coluna da Esquerda (Texto) -->
     <td width="700" align="center" valign="top">
       <h3 align="center">Olá você, eu sou o Thiago!</h3>
       <p align="center">Desenvolvedor Full Stack entusiasta de inovações e videogames</p>
@@ -21,9 +17,8 @@
       <br>
       <p>Você pode checar meu perfil completo no <a href="https://linkedin.com/in/thgss">LinkedIn</a></p>
     </td>
-    <!-- Coluna da Direita (Imagem) -->
     <td width="300" align="center" valign="end">
       <img src="https://github.com/thgss/thgss/blob/main/imgs/teste2.jpg" alt="Profile" width="100%">
     </td>
   </tr>
-</table>
+</table> -->
