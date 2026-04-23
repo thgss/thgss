@@ -1,4 +1,4 @@
-<img src="https://github.com/thgss/thgss/blob/main/imgs/void.svg" width="220">
+<img src="https://github.com/thgss/thgss/blob/main/imgs/void.svg" width="215">
 
 ![Titulo](imgs/Unlock%20a%20new%20opportunity.svg)
 
