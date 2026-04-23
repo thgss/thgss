@@ -1,3 +1,5 @@
+# Manutenção
+<!--
 <a href="https://github.com/thgss">
   <img src="https://github.com/thgss/thgss/blob/main/imgs/void.svg" width="100%" height="215">
 </a>
@@ -10,13 +12,9 @@
   </a>
 </div>
 
-<!-- <img src="https://github.com/thgss/thgss/blob/main/imgs/line.svg" width="100%" height="1"> -->
-
 <a href="https://github.com/thgss">
   <img src="https://github.com/thgss/thgss/blob/main/imgs/void.svg" width="100%" height="215">
 </a>
-
-<!-- [![teste](imgs/Unlock%20a%20new%20opportunity.svg)](https://github.com) -->
 
 <div align="end">
   
@@ -41,3 +39,5 @@
 #### ¡Hola, soy Thiago! <br> Estudiante universitario de Análisis y Desarrollo de Sistemas <br> en la Facultad de Informática y Administración Paulista <a href="https://www.fiap.com.br/">FIAP</a>. <br> Entusiasta de los juegos digitales, mis pasatiempos incluyen la creación <br> de juegos, mods y recursos para videojuegos.
   
 </div>
+
+-->
