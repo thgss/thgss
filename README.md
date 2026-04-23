@@ -14,6 +14,6 @@
 
 <div align="end">
   
-   <p width="100px">Olá você, eu sou o Thiago! <br> universitário em análise e desenvolvimento de sistemas <br> pela Faculdade de Informática e Administração Paulista - FIAP. <br> Entusiasta em jogos digitais, tenho como hobbie a criação <br> de jogos, mods e futures para video games.</p>
+   <p width="100px">Olá você, eu sou o Thiago! <br> Universitário em Análise e Desenvolvimento de Sistemas <br> pela <a href="https://www.fiap.com.br/"> Faculdade de Informática e Administração Paulista - FIAP</a>. <br> Entusiasta em jogos digitais, tenho como hobbie a criação <br> de jogos, mods e futures para video games.</p>
   
 </div>
