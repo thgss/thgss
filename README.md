@@ -3,9 +3,11 @@
 </a>
 
 <div align="center">
+  <a href="https://github.com/thgss">
   
   ![Titulo](imgs/About.svg)
-  
+
+  </a>
 </div>
 
 <!-- <img src="https://github.com/thgss/thgss/blob/main/imgs/line.svg" width="100%" height="1"> -->
@@ -18,6 +20,6 @@
 
 <div align="end">
   
-   <p width="100px">Olá você, eu sou o Thiago! <br> Universitário em Análise e Desenvolvimento de Sistemas <br> pela <a href="https://www.fiap.com.br/"> Faculdade de Informática e Administração Paulista - FIAP</a>. <br> Entusiasta em jogos digitais, tenho como hobbie a criação <br> de jogos, mods e futures para video games.</p>
+   <p width="100px">Olá você, eu sou o Thiago! <br> Universitário em Análise e Desenvolvimento de Sistemas <br> pela Faculdade de Informática e Administração Paulista  <a href="https://www.fiap.com.br/">FIAP</a>. <br> Entusiasta em jogos digitais, tenho como hobbie a criação <br> de jogos, mods e futures para video games.</p>
   
 </div>
