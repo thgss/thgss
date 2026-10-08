@@ -1,3 +1,3 @@
 #
 
-<img src="imgs/logo.gif" width="800">
+<img src="imgs/logo.gif" width="300">
