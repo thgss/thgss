@@ -1,4 +1,3 @@
 #
 
-<img src="imgs/logo.webm" width="800">
-
+<img src="imgs/logo.gif" width="800">
