@@ -1,4 +1,4 @@
 #
-
-<img src="imgs/logo.webm" width="800">
-
+<p align="center">
+  <img src="imgs/logo.gif" width="300">
+</p>
