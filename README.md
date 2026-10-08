@@ -5,6 +5,4 @@
 
 ### ㅤㅤㅤㅤ
 
-### ㅤㅤㅤㅤ
-
 <img src="imgs/Frame1.svg" width="100%">
